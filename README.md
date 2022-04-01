@@ -5,4 +5,6 @@ Repositorio con el código fuente de ejemplos llevados a cabo durante el curso: 
 ### Clonar este repositorio
 
 Puede clonar el siguiente repositorio de la siguiente manera:
-> git clone git@github.com:lizarragadev/AFD-200-Dart.git
+~~~
+git clone git@github.com:lizarragadev/AFD-200-Dart.git
+~~~
